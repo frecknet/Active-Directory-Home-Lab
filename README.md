@@ -2,7 +2,7 @@
 Built an isolated Active Directory environment to practice offensive and desktop security fundamentals.
 
 ## 🕸️ Network Topology
-![Lab Topology] Virtual Lab Topology.drawio.png
+![Lab Topology] Virtual Lab_Topology.drawio.png
 *Architecture: VMware Workstation Pro using VMnet8 (NAT) for network isolation between the lab and my host machine.*
 
 ## 🔍 Nmap Enumeration (Day 4)
@@ -15,7 +15,7 @@ I performed an aggressive scan (`nmap -sS -sV -A`) from my Kali Linux machine ag
 | **Kali** | 192.168.107.129 | Attacker | N/A |
 
 ### Scan Evidence
-![Nmap Results] nmap 1.png and nmap 2.png
+![Nmap Results] nmap_1.png and nmap_2.png
 
 ## 🛠️ Hardening (Day 6)
 I disabled **LLMNR** and **NetBIOS** on the Domain Controller via Group Policy. 
