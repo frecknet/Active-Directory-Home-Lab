@@ -2,7 +2,7 @@
 Built an isolated Active Directory environment to practice offensive and desktop security fundamentals.
 
 ## 🕸️ Network Topology
-![Lab Topology] Virtual Lab_Topology.drawio.png
+![Lab Topology] Lab_Topology.png
 *Architecture: VMware Workstation Pro using VMnet8 (NAT) for network isolation between the lab and my host machine.*
 
 ## 🔍 Nmap Enumeration (Day 4)
