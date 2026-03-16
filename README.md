@@ -15,7 +15,8 @@ I performed an aggressive scan (`nmap -sS -sV -A`) from my Kali Linux machine ag
 | **Kali** | 192.168.107.129 | Attacker | N/A |
 
 ### Scan Evidence
-![Nmap Results] nmap_1.png and nmap_2.png
+![Nmap Result 1](nmap_1.png)
+![Nmap Result 2](nmap_2.png)
 
 ## 🛠️ Hardening (Day 6)
 I disabled **LLMNR** and **NetBIOS** on the Domain Controller via Group Policy. 
